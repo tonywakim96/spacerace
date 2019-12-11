@@ -1,3 +1,6 @@
+import game.html
+import game.css
+
 let playerHealth = 100;
 let backgroundImage;
 let time = 0;
