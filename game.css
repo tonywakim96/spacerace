@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(35, 35, 35);
+}
+
+h1 {
+  font-family: "Unlock", cursive;
+  color: rgb(220, 20, 10);
+  line-height: 6px;
+  text-align: center;
+  font-size: 40px;
+  color: #fff;
+  text-align: center;
+  text-shadow: 0 0 5px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073,
+    0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+}
+
+p {
+  font-family: avenir;
+  color: white;
+  text-align: center;
+}
